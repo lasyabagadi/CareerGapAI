@@ -29,7 +29,7 @@ export function HomePage() {
     <main className={styles.page}>
       <div className="page-shell">
         <header className={styles.header}>
-          <div className="pill">CareerGap AI • Dream-role readiness engine</div>
+          <div className="pill">CareerGap AI • role readiness engine</div>
           <nav className={styles.nav}>
             <a href="#features">Features</a>
             <a href="#workflow">Workflow</a>
