@@ -55,9 +55,3 @@ Open `http://localhost:3000`.
 
 This app uses LinkedIn's real OIDC sign-in flow with open permissions. In practice, LinkedIn exposes far less profile data to general apps than GitHub does, so the platform combines LinkedIn sign-in with resume upload and manual profile fields to build a richer candidate profile.
 
-## Suggested next upgrades
-
-- Persist users, connected accounts, resumes, and generated outputs in PostgreSQL instead of cookies
-- Add proper session auth with Auth.js or Clerk
-- Expand GitHub import to summarize pinned repos, README content, and contribution history
-- Add export to PDF and DOCX
