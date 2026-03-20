@@ -1,5 +1,7 @@
 # CareerGap AI
 
+Video Demo Link: https://youtu.be/Tcw95LkcCQo
+
 CareerGap AI is a platform concept for students and early-career professionals who need a clearer path from their current profile to a target job role.
 
 ## What this build includes
